@@ -12,3 +12,4 @@ this project is a results of learning [zero to mastery pytorch](https://www.lear
 # 2. Training
 
 # 3. Experiments on hugginface interface
+[Live experiement](https://huggingface.co/spaces/shyn1/Food101)
